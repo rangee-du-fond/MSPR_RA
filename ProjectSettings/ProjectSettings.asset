@@ -759,6 +759,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -772,10 +773,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ae790385-e844-48e1-ae27-7b6cc74f0eb4
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: MSPR_RA
+  organizationId: wegeee
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
